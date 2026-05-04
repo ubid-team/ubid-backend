@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "api_samples",
+  "description": "Sample REST API contract payloads.",
+  "type": "object",
+  "properties": {
+    "post_api_chat": {
+      "type": "string"
+    },
+    "post_api_resolve": {
+      "type": "string"
+    },
+    "post_api_ubid_generate": {
+      "type": "string"
+    },
+    "get_api_dashboard_ubid": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true
+}
