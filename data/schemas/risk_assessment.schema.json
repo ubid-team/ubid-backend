@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "risk_assessment",
+  "description": "UBID risk-score output for dashboard.",
+  "type": "object",
+  "properties": {
+    "ubid": {
+      "type": "string"
+    },
+    "business_name": {
+      "type": "string"
+    },
+    "risk_score": {
+      "type": "integer"
+    },
+    "risk_level": {
+      "type": "string"
+    },
+    "activity_status": {
+      "type": "string"
+    },
+    "last_activity_date": {
+      "type": "string"
+    },
+    "linked_departments": {
+      "type": "string"
+    },
+    "risk_reasons": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true
+}

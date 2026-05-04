@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "candidate_match_pairs",
+  "description": "Pairwise matching evidence and decision output.",
+  "type": "object",
+  "properties": {
+    "candidate_pair_id": {
+      "type": "string"
+    },
+    "left_source_system": {
+      "type": "string"
+    },
+    "left_record_id": {
+      "type": "string"
+    },
+    "left_business_name": {
+      "type": "string"
+    },
+    "right_source_system": {
+      "type": "string"
+    },
+    "right_record_id": {
+      "type": "string"
+    },
+    "right_business_name": {
+      "type": "string"
+    },
+    "pin_code": {
+      "type": "string"
+    },
+    "match_score": {
+      "type": "integer"
+    },
+    "decision": {
+      "type": "string"
+    },
+    "name_score": {
+      "type": "number"
+    },
+    "address_score": {
+      "type": "integer"
+    },
+    "identifier_score": {
+      "type": "integer"
+    },
+    "phone_score": {
+      "type": "integer"
+    },
+    "same_entity_ground_truth": {
+      "type": "boolean"
+    },
+    "explanation": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true
+}

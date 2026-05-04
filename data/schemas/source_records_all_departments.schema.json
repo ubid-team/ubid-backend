@@ -1,0 +1,99 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "source_records_all_departments",
+  "description": "Unified raw source record format after department-specific ingestion.",
+  "type": "object",
+  "properties": {
+    "source_record_id": {
+      "type": "string"
+    },
+    "source_system": {
+      "type": "string"
+    },
+    "source_system_name": {
+      "type": "string"
+    },
+    "entity_id_ground_truth": {
+      "type": "string"
+    },
+    "business_name": {
+      "type": "string"
+    },
+    "trade_name": {
+      "type": "string"
+    },
+    "owner_name_masked": {
+      "type": "string"
+    },
+    "address": {
+      "type": "string"
+    },
+    "locality": {
+      "type": "string"
+    },
+    "district": {
+      "type": "string"
+    },
+    "district_code": {
+      "type": "string"
+    },
+    "pin_code": {
+      "type": "string"
+    },
+    "ward": {
+      "type": "string"
+    },
+    "zone": {
+      "type": "string"
+    },
+    "business_type": {
+      "type": "string"
+    },
+    "business_category": {
+      "type": "string"
+    },
+    "nic_code": {
+      "type": "string"
+    },
+    "pollution_category": {
+      "type": "string"
+    },
+    "pan_hash": {
+      "type": "string"
+    },
+    "gstin_hash": {
+      "type": "string"
+    },
+    "udyam_hash": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "registration_date": {
+      "type": "string"
+    },
+    "last_event_date": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "employee_count": {
+      "type": "string"
+    },
+    "turnover_band_lakh": {
+      "type": "string"
+    },
+    "ingested_at": {
+      "type": "string"
+    },
+    "data_quality_notes": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true
+}

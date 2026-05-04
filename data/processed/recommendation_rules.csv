@@ -1,0 +1,11 @@
+business_type,required_registrations,risk_flags,primary_departments
+Food Processing,Shop Establishment|GST|FSSAI|KSPCB if processing/effluent|Labour if employees,KSPCB consent missing|FSSAI missing|duplicate names across PIN,SHOP|GST|KSPCB|LABOUR
+Restaurant / Cafe,Shop Establishment|BBMP Trade Licence|GST if threshold met|FSSAI,trade licence expired|complaint open|GST cancelled,SHOP|BBMP|GST
+Machine Tools,Factories Act|KSPCB|Labour|GST|Udyam optional,no inspection in 18 months|factory record missing|KSPCB missing,FACTORY|KSPCB|LABOUR|GST
+Textile / Garments,Shop Establishment|Factories Act if manufacturing unit|Labour|GST|Udyam,worker count missing|labour return stale|duplicate trade names,SHOP|FACTORY|LABOUR|GST|UDYAM
+Electronics Assembly,Factories Act|KSPCB depending process|Labour|GST|Udyam,manufacturing without factory licence|no KSPCB signal,FACTORY|KSPCB|LABOUR|GST
+Logistics / Warehouse,Shop Establishment|GST|Labour if employees|BBMP trade licence where applicable,warehouse active but no shop licence|address mismatch,SHOP|GST|LABOUR|BBMP
+Plastic Moulding,Factories Act|KSPCB|Labour|GST|Udyam,Red category without KSPCB|inspection stale|factory licence expired,FACTORY|KSPCB|LABOUR|GST
+Chemical Blending,Factories Act|KSPCB|Labour|GST|hazard handling if applicable,Red category|KSPCB consent expired|complaint open,FACTORY|KSPCB|LABOUR|GST
+Pharmacy / Medical Retail,Shop Establishment|BBMP Trade Licence|GST|drug licence outside UBID scope,trade licence expired|GST suspended,SHOP|BBMP|GST
+Printing / Packaging,Shop Establishment|Factories Act depending scale|KSPCB depending inks/effluent|GST,KSPCB missing for printing unit|duplicate address,SHOP|FACTORY|KSPCB|GST

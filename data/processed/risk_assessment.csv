@@ -1,0 +1,326 @@
+ubid,business_name,risk_score,risk_level,activity_status,last_activity_date,linked_departments,risk_reasons
+KA-BLRU-560059-000027,Sree Electronics Industries,100,High,CLOSED,2022-06-29,FACTORY|GST,No compliance activity for more than 36 months | Manufacturing business has no linked KSPCB consent record | 3 unresolved/notice complaint signals | Closed/deregistered or long-inactive status
+KA-BLRU-560068-000040,Varun Textiles Industries,100,High,CLOSED,2022-09-19,BBMP|GST|LABOUR|SHOP,No compliance activity for more than 36 months | Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | Closed/deregistered or long-inactive status
+KA-MYS-570001-000107,Harsha Industries,100,High,DORMANT,2023-10-14,LABOUR|SHOP|UDYAM,No compliance activity for more than 18 months | Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | No linked GST registry signal | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-TUM-572106-000117,Mysore Printers Company,100,High,CLOSED,2022-09-03,FACTORY,No compliance activity for more than 36 months | Manufacturing business has no linked KSPCB consent record | No linked GST registry signal | 2 unresolved/notice complaint signals | Closed/deregistered or long-inactive status
+KA-BLRU-560064-000161,Bangalore Apparels Enterprises,100,High,CLOSED,2022-06-25,BBMP|GST|SHOP|UDYAM,No compliance activity for more than 36 months | Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals | Closed/deregistered or long-inactive status
+KA-BLRR-561203-000187,Varun Industries Industries,100,High,DORMANT,2022-09-18,LABOUR|SHOP,No compliance activity for more than 36 months | Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | No linked GST registry signal | Dormant status inferred from event stream
+KA-BLRU-560085-000209,Ananya Circuits Enterprises,100,High,DORMANT,2023-12-17,LABOUR|SHOP|UDYAM,No compliance activity for more than 18 months | Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | No linked GST registry signal | 2 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560024-000220,Ananya Associates,100,High,DORMANT,2024-08-11,BBMP|GST,No compliance activity for more than 18 months | Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | 3 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRR-562114-000265,Sharma Textiles Pvt Ltd,100,High,CLOSED,2022-12-19,BBMP|LABOUR,No compliance activity for more than 36 months | Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | No linked GST registry signal | 1 unresolved/notice complaint signals | Closed/deregistered or long-inactive status
+KA-MYS-570018-000085,Mysore Works,97,High,CLOSED,2022-02-25,FACTORY|GST|SHOP|UDYAM,No compliance activity for more than 36 months | Manufacturing business has no linked KSPCB consent record | 1 unresolved/notice complaint signals | Closed/deregistered or long-inactive status
+KA-BLRU-560076-000072,Siddhi Bakery LLP,95,High,CLOSED,2021-03-17,FACTORY|GST,No compliance activity for more than 36 months | Manufacturing business has no linked KSPCB consent record | Closed/deregistered or long-inactive status
+KA-BLRR-561203-000191,Siddhi Warehouse Industries,92,High,CLOSED,2020-11-23,BBMP|LABOUR,No compliance activity for more than 36 months | No linked GST registry signal | 2 unresolved/notice complaint signals | Closed/deregistered or long-inactive status
+KA-BLRU-560064-000301,Vijaya Fashions Pvt Ltd,91,High,DORMANT,2024-05-30,BBMP|GST|LABOUR|SHOP,No compliance activity for more than 18 months | Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560058-000062,Veda Pharma Associates,90,High,CLOSED,2022-08-09,BBMP|UDYAM,No compliance activity for more than 36 months | No linked GST registry signal | 1 unresolved/notice complaint signals | Closed/deregistered or long-inactive status
+KA-BLRU-560102-000066,Sree Dine Co,90,High,CLOSED,2021-08-07,BBMP|LABOUR|SHOP,No compliance activity for more than 36 months | No linked GST registry signal | 1 unresolved/notice complaint signals | Closed/deregistered or long-inactive status
+KA-BLRU-560037-000086,Kaveri Labs Pvt Ltd,90,High,CLOSED,2020-10-17,FACTORY|KSPCB|LABOUR,No compliance activity for more than 36 months | No linked GST registry signal | 1 unresolved/notice complaint signals | Closed/deregistered or long-inactive status
+KA-MYS-570018-000126,Sahana Garments Company,90,High,DORMANT,2024-01-24,GST|LABOUR|SHOP,No compliance activity for more than 18 months | Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560059-000198,Kaveri Bakery LLP,88,High,DORMANT,2024-06-23,BBMP|GST|UDYAM,No compliance activity for more than 18 months | Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560066-000269,Nisarga Printers Pvt Ltd,87,High,DORMANT,2024-05-24,BBMP|GST|LABOUR|SHOP,No compliance activity for more than 18 months | Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560085-000034,Nandi Cargo Company,82,High,CLOSED,2022-07-25,GST|UDYAM,No compliance activity for more than 36 months | 1 unresolved/notice complaint signals | Closed/deregistered or long-inactive status
+KA-BLRU-560059-000202,Veda Agro Co,82,High,DORMANT,2024-08-31,BBMP|GST|SHOP|UDYAM,No compliance activity for more than 18 months | Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560059-000244,Naveen LLP,81,High,DORMANT,2024-01-26,BBMP|GST|SHOP,No compliance activity for more than 18 months | Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | Dormant status inferred from event stream
+KA-BLRU-560024-000112,Ananya Solutions,80,High,CLOSED,2022-03-26,FACTORY|KSPCB|UDYAM,No compliance activity for more than 36 months | No linked GST registry signal | Closed/deregistered or long-inactive status
+KA-BLRU-560085-000193,Meghana Polymers Associates,80,High,DORMANT,2024-10-21,GST|LABOUR|UDYAM,No compliance activity for more than 18 months | Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | Dormant status inferred from event stream
+KA-BLRR-562157-000230,Kaveri Meds Pvt Ltd,80,High,CLOSED,2022-01-16,BBMP|SHOP,No compliance activity for more than 36 months | No linked GST registry signal | Closed/deregistered or long-inactive status
+KA-BLRU-560037-000317,Nisarga Labels Pvt Ltd,80,High,DORMANT,2024-12-28,KSPCB|LABOUR|SHOP|UDYAM,No compliance activity in the last 12 months | Manufacturing business has no linked Factories Act record | No linked GST registry signal | 2 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560078-000213,Bangalore Snacks LLP,79,High,CLOSED,2023-06-18,GST|KSPCB|LABOUR|UDYAM,No compliance activity for more than 18 months | Manufacturing business has no linked Factories Act record | Closed/deregistered or long-inactive status
+KA-BLRU-560064-000250,Aarohi Graphics Solutions,79,High,DORMANT,2024-06-10,GST|LABOUR|SHOP,No compliance activity for more than 18 months | Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | Dormant status inferred from event stream
+KA-BLRU-560029-000242,Nisarga Clinic Solutions,76,High,CLOSED,2021-02-14,BBMP|GST,No compliance activity for more than 36 months | 1 unresolved/notice complaint signals | Closed/deregistered or long-inactive status
+KA-BLRU-560076-000065,Sri Agro Industries,74,High,DORMANT,2024-08-06,GST|SHOP|UDYAM,No compliance activity for more than 18 months | Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | Dormant status inferred from event stream
+KA-BLRR-562110-000165,Varun Dine Company,74,High,CLOSED,2022-12-12,GST|SHOP|UDYAM,No compliance activity for more than 36 months | Closed/deregistered or long-inactive status
+KA-MYS-570001-000177,Srinidhi Health Traders,72,High,CLOSED,2022-04-07,GST|SHOP,No compliance activity for more than 36 months | Closed/deregistered or long-inactive status
+KA-TUM-572101-000036,Nandi Stores LLP,71,High,CLOSED,2022-06-07,GST|LABOUR,No compliance activity for more than 36 months | Closed/deregistered or long-inactive status
+KA-BLRU-560085-000004,Asha Trans LLP,69,Medium,CLOSED,2021-04-01,GST,No compliance activity for more than 36 months | Closed/deregistered or long-inactive status
+KA-BLRR-562114-000203,Siddhi Industries,69,Medium,CLOSED,2023-05-19,BBMP|UDYAM,No compliance activity for more than 18 months | No linked GST registry signal | 1 unresolved/notice complaint signals | Closed/deregistered or long-inactive status
+KA-BLRU-560029-000067,Sahana Meds Enterprises,68,Medium,CLOSED,2020-12-11,GST|SHOP|UDYAM,No compliance activity for more than 36 months | Closed/deregistered or long-inactive status
+KA-BLRU-560066-000075,Ravi Tech Associates,67,Medium,CLOSED,2022-12-16,FACTORY|GST|KSPCB|SHOP,No compliance activity for more than 36 months | Closed/deregistered or long-inactive status
+KA-BLRU-560043-000214,Srinidhi Works,67,Medium,CLOSED,2021-01-19,GST|LABOUR,No compliance activity for more than 36 months | Closed/deregistered or long-inactive status
+KA-TUM-572101-000239,Aditya Labels Enterprises,67,Medium,DORMANT,2023-11-07,BBMP|FACTORY|GST|SHOP|UDYAM,No compliance activity for more than 18 months | Manufacturing business has no linked KSPCB consent record | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560037-000225,Asha Enterprises,66,Medium,CLOSED,2023-05-29,GST|LABOUR|SHOP,No compliance activity for more than 18 months | 1 unresolved/notice complaint signals | Closed/deregistered or long-inactive status
+KA-BLRU-560001-000070,Sri Spices Solutions,65,Medium,DORMANT,2024-07-28,GST|KSPCB|SHOP,No compliance activity for more than 18 months | Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560043-000273,Mysore Industries,65,Medium,DORMANT,2023-12-09,GST|KSPCB|SHOP|UDYAM,No compliance activity for more than 18 months | Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560059-000312,Naveen Printers Solutions,65,Medium,DORMANT,2024-09-15,BBMP|KSPCB|LABOUR|SHOP,No compliance activity for more than 18 months | Manufacturing business has no linked Factories Act record | No linked GST registry signal | Dormant status inferred from event stream
+KA-TUM-572106-000102,Sharma CNC Enterprises,64,Medium,DORMANT,2024-06-11,GST|KSPCB|LABOUR|SHOP|UDYAM,No compliance activity for more than 18 months | Manufacturing business has no linked Factories Act record | Dormant status inferred from event stream
+KA-MYS-570018-000313,Nandi Foods Industries,64,Medium,DORMANT,2024-11-14,BBMP|FACTORY,No compliance activity in the last 12 months | Manufacturing business has no linked KSPCB consent record | No linked GST registry signal | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-MYS-570016-000082,Prakruthi Packaging Solutions,63,Medium,DORMANT,2025-01-19,FACTORY|KSPCB|LABOUR|UDYAM,No compliance activity in the last 12 months | No linked GST registry signal | 3 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560102-000207,Deccan Coatings Associates,63,Medium,DORMANT,2024-05-21,GST|KSPCB|LABOUR|UDYAM,No compliance activity for more than 18 months | Manufacturing business has no linked Factories Act record | Dormant status inferred from event stream
+KA-MYS-570016-000021,Prakruthi Packaging Solutions,62,Medium,DORMANT,2023-11-02,GST|KSPCB|LABOUR,No compliance activity for more than 18 months | Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560100-000196,Sri Foods Company,62,Medium,DORMANT,2024-10-07,FACTORY|GST|LABOUR|SHOP,No compliance activity for more than 18 months | Manufacturing business has no linked KSPCB consent record | Dormant status inferred from event stream
+KA-MYS-570016-000233,Srinidhi Traders,62,Medium,DORMANT,2024-02-04,GST|KSPCB|UDYAM,No compliance activity for more than 18 months | Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560068-000020,Navya Devices Co,61,Medium,DORMANT,2023-10-04,FACTORY|GST|UDYAM,No compliance activity for more than 18 months | Manufacturing business has no linked KSPCB consent record | Dormant status inferred from event stream
+KA-TUM-572106-000298,Aditya Works,61,Medium,CLOSED,2023-07-08,GST|SHOP,No compliance activity for more than 18 months | 1 unresolved/notice complaint signals | Closed/deregistered or long-inactive status
+KA-BLRU-560029-000218,Ananya Electronics Co,60,Medium,DORMANT,2024-11-19,GST|KSPCB|LABOUR|SHOP,No compliance activity in the last 12 months | Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560076-000115,Bangalore Care Works,59,Medium,DORMANT,2024-05-05,GST|SHOP,No compliance activity for more than 18 months | 2 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560085-000041,Meghana Bites Associates,58,Medium,DORMANT,2024-09-11,BBMP|SHOP,No compliance activity for more than 18 months | No linked GST registry signal | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560043-000046,Ravi LLP,58,Medium,DORMANT,2024-04-24,GST|SHOP|UDYAM,No compliance activity for more than 18 months | 2 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-MYS-570001-000150,Bangalore Company,56,Medium,DORMANT,2024-01-03,GST|KSPCB|UDYAM,No compliance activity for more than 18 months | Manufacturing business has no linked Factories Act record | Dormant status inferred from event stream
+KA-BLRR-562114-000163,Asha Clinic Solutions,55,Medium,DORMANT,2024-03-09,BBMP|GST|SHOP|UDYAM,No compliance activity for more than 18 months | 2 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-MYS-570018-000185,Sharma Pvt Ltd,55,Medium,DORMANT,2024-04-01,BBMP|FACTORY|KSPCB|SHOP|UDYAM,No compliance activity for more than 18 months | No linked GST registry signal | Dormant status inferred from event stream
+KA-BLRU-560037-000001,Omkar Works,54,Medium,DORMANT,2024-10-12,SHOP,No compliance activity for more than 18 months | No linked GST registry signal | Dormant status inferred from event stream
+KA-BLRU-560043-000052,Naveen Company,54,Medium,ACTIVE,2026-04-25,GST|LABOUR|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | 2 unresolved/notice complaint signals
+KA-BLRU-560085-000097,Ananya Labs Pvt Ltd,54,Medium,DORMANT,2025-02-27,BBMP|FACTORY|KSPCB,No compliance activity in the last 12 months | No linked GST registry signal | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560100-000292,Udupi Health Works,54,Medium,DORMANT,2023-10-19,BBMP|GST|SHOP,No compliance activity for more than 18 months | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRR-561203-000003,Veda Devices Works,53,Medium,DORMANT,2024-05-19,FACTORY|GST|KSPCB,No compliance activity for more than 18 months | 2 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560076-000235,Sahana Industries,53,Medium,ACTIVE,2025-02-06,GST|LABOUR|SHOP|UDYAM,No compliance activity in the last 12 months | Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record
+KA-MYS-570001-000068,Vijaya Bites Industries,52,Medium,DORMANT,2024-07-20,BBMP|SHOP,No compliance activity for more than 18 months | No linked GST registry signal | Dormant status inferred from event stream
+KA-BLRU-560059-000092,Prakruthi Care Industries,52,Medium,DORMANT,2025-03-08,BBMP|SHOP,No compliance activity in the last 12 months | No linked GST registry signal | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-TUM-572101-000109,Bangalore Packaging Works,52,Medium,DORMANT,2025-01-09,FACTORY|GST|KSPCB|LABOUR,No compliance activity in the last 12 months | 2 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560001-000306,Nandi Moulding Company,52,Medium,DORMANT,2024-04-28,FACTORY|GST|KSPCB|LABOUR|UDYAM,No compliance activity for more than 18 months | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRR-562114-000132,Sri Kitchen Enterprises,51,Medium,DORMANT,2023-12-26,BBMP|GST|SHOP,No compliance activity for more than 18 months | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560058-000153,Sahana Kitchen Solutions,51,Medium,DORMANT,2024-09-22,BBMP|GST|LABOUR|SHOP,No compliance activity for more than 18 months | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560034-000314,Srinidhi Labels Company,51,Medium,ACTIVE,2026-01-24,LABOUR|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | No linked GST registry signal
+KA-BLRU-560029-000105,Kaveri Pvt Ltd,49,Medium,DORMANT,2023-12-24,FACTORY|GST|KSPCB|UDYAM,No compliance activity for more than 18 months | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560085-000148,Vijaya Tools Solutions,49,Medium,DORMANT,2025-02-09,FACTORY|GST|SHOP,No compliance activity in the last 12 months | Manufacturing business has no linked KSPCB consent record | Dormant status inferred from event stream
+KA-BLRR-562110-000291,Lakshmi Meds Pvt Ltd,49,Medium,DORMANT,2023-10-12,GST|SHOP|UDYAM,No compliance activity for more than 18 months | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-MYS-570016-000022,Ravi Plastics Works,48,Medium,DORMANT,2025-01-25,FACTORY|KSPCB|LABOUR|SHOP,No compliance activity in the last 12 months | No linked GST registry signal | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-MYS-570001-000012,Naveen Systems Pvt Ltd,47,Medium,DORMANT,2024-08-07,FACTORY|KSPCB|UDYAM,No compliance activity for more than 18 months | No linked GST registry signal | Dormant status inferred from event stream
+KA-MYS-570001-000077,Ananya Pharma Traders,47,Medium,DORMANT,2024-06-01,SHOP,No compliance activity for more than 18 months | No linked GST registry signal | Dormant status inferred from event stream
+KA-BLRU-560024-000222,Ganesh Cafe Company,47,Medium,DORMANT,2024-09-25,GST|SHOP,No compliance activity for more than 18 months | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560066-000271,Bangalore Traders,47,Medium,DORMANT,2024-01-20,BBMP|GST|SHOP|UDYAM,No compliance activity for more than 18 months | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560059-000302,Kaveri Wear Works,47,Medium,ACTIVE,2026-02-11,GST|KSPCB|LABOUR|UDYAM,Manufacturing business has no linked Factories Act record | 3 unresolved/notice complaint signals
+KA-TUM-572106-000048,Bangalore Dine Associates,46,Medium,DORMANT,2023-09-21,BBMP|SHOP,No compliance activity for more than 18 months | No linked GST registry signal | Dormant status inferred from event stream
+KA-BLRU-560024-000212,Ravi Textiles Company,46,Medium,ACTIVE,2026-05-02,BBMP|GST|SHOP,Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals
+KA-BLRU-560078-000299,Srinidhi Press Works,46,Medium,DORMANT,2024-10-20,FACTORY|GST|KSPCB|SHOP,No compliance activity for more than 18 months | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-MYS-570018-000033,Deccan Industries,45,Medium,ACTIVE,2026-04-12,GST|LABOUR|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals
+KA-BLRU-560076-000279,Varun Traders,45,Medium,DORMANT,2024-09-15,GST|SHOP,No compliance activity for more than 18 months | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-MYS-570016-000042,Aditya Circuits Works,44,Medium,ACTIVE,2026-02-26,BBMP|GST|LABOUR|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record
+KA-BLRU-560078-000056,Bharath Graphics Solutions,44,Medium,ACTIVE,2025-10-14,BBMP|GST|SHOP,Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record
+KA-BLRR-562110-000120,Aarohi Medical Works,44,Medium,DORMANT,2024-05-30,BBMP|FACTORY|GST|SHOP,No compliance activity for more than 18 months | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560064-000136,Aarohi Bakery Industries,44,Medium,ACTIVE,2026-04-29,BBMP|FACTORY|GST|LABOUR,Manufacturing business has no linked KSPCB consent record | 4 unresolved/notice complaint signals
+KA-BLRU-560085-000175,Prakruthi LLP,44,Medium,ACTIVE,2025-11-10,GST|LABOUR|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals
+KA-BLRU-560085-000024,Sree Solutions,42,Medium,ACTIVE,2025-10-13,GST|LABOUR|SHOP,Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record
+KA-BLRR-562157-000281,Navya Garments Works,42,Medium,ACTIVE,2026-02-27,BBMP|GST|UDYAM,Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals
+KA-BLRR-562114-000078,Aditya Medical Pvt Ltd,41,Medium,DORMANT,2024-06-21,BBMP|GST|LABOUR|SHOP,No compliance activity for more than 18 months | Dormant status inferred from event stream
+KA-MYS-570016-000079,Ravi Co,41,Medium,ACTIVE,2025-08-11,GST|LABOUR|SHOP,Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record
+KA-BLRU-560064-000305,Omkar Health Enterprises,41,Medium,DORMANT,2025-01-26,BBMP|GST|SHOP|UDYAM,No compliance activity in the last 12 months | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560064-000103,Aditya Garments Industries,40,Medium,ACTIVE,2026-02-08,BBMP|GST|LABOUR,Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record
+KA-BLRU-560064-000108,Mysore Fashions Enterprises,40,Medium,ACTIVE,2025-10-22,FACTORY|GST|LABOUR|UDYAM,Manufacturing business has no linked KSPCB consent record | 2 unresolved/notice complaint signals
+KA-BLRU-560037-000189,Sahana Apparels Co,40,Medium,ACTIVE,2026-05-04,BBMP|FACTORY|GST|LABOUR|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record | 2 unresolved/notice complaint signals
+KA-BLRU-560102-000050,Ananya Print Works,39,Medium,ACTIVE,2025-08-15,GST|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record
+KA-BLRU-560034-000119,Ravi Solutions,39,Medium,ACTIVE,2025-01-07,GST|KSPCB,No compliance activity in the last 12 months | Manufacturing business has no linked Factories Act record
+KA-BLRU-560043-000154,Navya Trans Co,39,Medium,DORMANT,2025-04-30,GST|SHOP,No compliance activity in the last 12 months | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560076-000289,Aarohi Bakery Associates,39,Medium,ACTIVE,2026-04-08,BBMP|GST|LABOUR|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record
+KA-BLRR-562110-000015,Meghana Warehouse Traders,38,Medium,DORMANT,2025-04-22,BBMP|GST|LABOUR|UDYAM,No compliance activity in the last 12 months | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560066-000152,Meghana Machining Works,38,Medium,ACTIVE,2026-04-13,GST|KSPCB|LABOUR|SHOP,Manufacturing business has no linked Factories Act record | 2 unresolved/notice complaint signals
+KA-BLRR-562114-000106,Naveen Stores LLP,37,Medium,DORMANT,2025-01-18,BBMP|LABOUR,No compliance activity in the last 12 months | No linked GST registry signal | Dormant status inferred from event stream
+KA-MYS-570018-000059,Bangalore Apparels Company,36,Medium,ACTIVE,2026-04-26,BBMP|FACTORY|GST,Manufacturing business has no linked KSPCB consent record | 2 unresolved/notice complaint signals
+KA-BLRU-560068-000094,Sharma Biryani Pvt Ltd,36,Medium,DORMANT,2025-03-21,BBMP|GST|LABOUR|SHOP|UDYAM,No compliance activity in the last 12 months | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560100-000125,Navya Snacks Industries,36,Medium,ACTIVE,2025-09-15,FACTORY|GST|LABOUR|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record | 2 unresolved/notice complaint signals
+KA-BLRU-560034-000236,Bharath Cargo Pvt Ltd,36,Medium,DORMANT,2024-02-24,BBMP|GST|SHOP,No compliance activity for more than 18 months | Dormant status inferred from event stream
+KA-TUM-572101-000043,Kaveri Press Enterprises,35,Medium,ACTIVE,2025-10-31,GST|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record
+KA-BLRU-560076-000051,Varun Enterprises,35,Medium,ACTIVE,2025-12-10,GST|KSPCB|LABOUR|SHOP|UDYAM,Manufacturing business has no linked Factories Act record | 2 unresolved/notice complaint signals
+KA-BLRU-560043-000146,Udupi Circuits LLP,35,Medium,ACTIVE,2025-12-28,FACTORY|GST|UDYAM,Manufacturing business has no linked KSPCB consent record | 2 unresolved/notice complaint signals
+KA-MYS-570018-000201,Harsha Meals Associates,35,Medium,DORMANT,2025-01-21,BBMP|GST|LABOUR|SHOP,No compliance activity in the last 12 months | Dormant status inferred from event stream
+KA-BLRU-560058-000308,Sree Mold Traders,35,Medium,ACTIVE,2025-11-06,GST|SHOP,Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record
+KA-BLRU-560029-000098,Ganesh Works,34,Low,ACTIVE,2026-04-26,KSPCB|SHOP,Manufacturing business has no linked Factories Act record | No linked GST registry signal
+KA-BLRU-560037-000139,Harsha Works Co,34,Low,ACTIVE,2026-05-02,BBMP|KSPCB|SHOP,Manufacturing business has no linked Factories Act record | No linked GST registry signal | 1 unresolved/notice complaint signals
+KA-MYS-570016-000205,Aarohi Solutions,34,Low,ACTIVE,2026-04-29,BBMP|FACTORY|UDYAM,Manufacturing business has no linked KSPCB consent record | No linked GST registry signal
+KA-TUM-572101-000211,Udupi Systems Traders,34,Low,ACTIVE,2025-11-21,GST|LABOUR|UDYAM,Manufacturing business has no linked KSPCB consent record | Manufacturing business has no linked Factories Act record
+KA-BLRU-560029-000090,Bharath Tech Associates,33,Low,ACTIVE,2026-04-20,FACTORY|GST|LABOUR|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record | 1 unresolved/notice complaint signals
+KA-BLRU-560078-000143,Siddhi Pvt Ltd,33,Low,ACTIVE,2026-01-26,BBMP|FACTORY|GST|SHOP,Manufacturing business has no linked KSPCB consent record | 1 unresolved/notice complaint signals
+KA-BLRU-560037-000162,Ananya CNC LLP,33,Low,ACTIVE,2025-10-18,GST|KSPCB|LABOUR|SHOP|UDYAM,Manufacturing business has no linked Factories Act record | 2 unresolved/notice complaint signals
+KA-BLRU-560001-000166,Sharma Electronics Solutions,33,Low,ACTIVE,2025-09-07,BBMP|KSPCB|LABOUR|SHOP|UDYAM,Manufacturing business has no linked Factories Act record | No linked GST registry signal | 1 unresolved/notice complaint signals
+KA-MYS-570016-000254,Srinidhi LLP,33,Low,DORMANT,2025-04-08,BBMP|GST|SHOP|UDYAM,No compliance activity in the last 12 months | Dormant status inferred from event stream
+KA-BLRU-560100-000008,Siddhi Cafe Industries,32,Low,ACTIVE,2026-01-10,BBMP|KSPCB|LABOUR|SHOP|UDYAM,No linked GST registry signal | 2 unresolved/notice complaint signals
+KA-BLRU-560064-000029,Asha Co,32,Low,ACTIVE,2025-11-01,FACTORY|GST|UDYAM,Manufacturing business has no linked KSPCB consent record | 2 unresolved/notice complaint signals
+KA-MYS-570016-000057,Prakruthi Electronics Industries,32,Low,ACTIVE,2025-09-13,FACTORY|GST|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record | 2 unresolved/notice complaint signals
+KA-MYS-570016-000096,Ananya Devices Solutions,32,Low,ACTIVE,2025-08-18,BBMP|FACTORY|GST|SHOP,Manufacturing business has no linked KSPCB consent record | 2 unresolved/notice complaint signals
+KA-BLRU-560085-000101,Srinidhi Enterprises,32,Low,DORMANT,2024-11-22,FACTORY|GST|KSPCB|LABOUR|SHOP,No compliance activity in the last 12 months | Dormant status inferred from event stream
+KA-BLRU-560043-000129,Sri Devices LLP,32,Low,ACTIVE,2025-09-16,BBMP|GST|KSPCB|UDYAM,Manufacturing business has no linked Factories Act record | 2 unresolved/notice complaint signals
+KA-BLRU-560058-000296,Veda Apparels Company,32,Low,ACTIVE,2025-11-06,BBMP|KSPCB|LABOUR,Manufacturing business has no linked Factories Act record | No linked GST registry signal | 1 unresolved/notice complaint signals
+KA-MYS-570018-000179,Sree Associates,31,Low,ACTIVE,2026-04-04,GST|KSPCB|UDYAM,Manufacturing business has no linked Factories Act record | 2 unresolved/notice complaint signals
+KA-BLRU-560076-000181,Srinidhi Injection Enterprises,31,Low,ACTIVE,2026-04-30,BBMP|FACTORY|KSPCB,No linked GST registry signal | 2 unresolved/notice complaint signals
+KA-BLRU-560029-000261,Veda Print Enterprises,31,Low,ACTIVE,2024-08-16,FACTORY|GST|KSPCB|SHOP|UDYAM,No compliance activity for more than 18 months | 1 unresolved/notice complaint signals
+KA-BLRR-562114-000262,Meghana Spices LLP,31,Low,ACTIVE,2026-03-05,BBMP|KSPCB|SHOP|UDYAM,Manufacturing business has no linked Factories Act record | No linked GST registry signal
+KA-BLRU-560058-000270,Ananya Cafe Enterprises,31,Low,DORMANT,2025-02-25,BBMP|GST|LABOUR|SHOP,No compliance activity in the last 12 months | Dormant status inferred from event stream
+KA-MYS-570001-000131,Aditya Systems LLP,30,Low,ACTIVE,2025-09-29,KSPCB|UDYAM,Manufacturing business has no linked Factories Act record | No linked GST registry signal
+KA-BLRU-560001-000186,Nisarga Enterprises,30,Low,ACTIVE,2025-11-24,BBMP|FACTORY|LABOUR|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record | No linked GST registry signal
+KA-BLRU-560066-000241,Mysore Biryani Associates,30,Low,ACTIVE,2025-11-06,GST|KSPCB|LABOUR|SHOP,3 unresolved/notice complaint signals
+KA-BLRR-561203-000294,Nandi Tools Co,30,Low,ACTIVE,2026-04-06,BBMP|FACTORY|LABOUR|UDYAM,Manufacturing business has no linked KSPCB consent record | No linked GST registry signal
+KA-BLRU-560100-000300,Varun Systems Solutions,30,Low,ACTIVE,2025-12-11,FACTORY|GST|KSPCB|SHOP|UDYAM,3 unresolved/notice complaint signals
+KA-BLRU-560100-000014,Siddhi Industrial Industries,29,Low,ACTIVE,2026-01-19,BBMP|FACTORY|KSPCB|LABOUR|SHOP|UDYAM,No linked GST registry signal | 2 unresolved/notice complaint signals
+KA-BLRU-560076-000122,Aarohi Apparels Company,29,Low,ACTIVE,2026-01-31,FACTORY|LABOUR|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record | No linked GST registry signal
+KA-MYS-570001-000138,Meghana Meals Industries,29,Low,DORMANT,2024-12-13,BBMP|GST|SHOP,No compliance activity in the last 12 months | Dormant status inferred from event stream
+KA-BLRU-560068-000174,Bharath Medical Solutions,29,Low,DORMANT,2025-06-07,BBMP|LABOUR|SHOP,No linked GST registry signal | Dormant status inferred from event stream
+KA-BLRU-560066-000194,Nisarga Trans Works,29,Low,DORMANT,2025-01-23,GST|SHOP,No compliance activity in the last 12 months | Dormant status inferred from event stream
+KA-BLRU-560076-000293,Siddhi Works Enterprises,29,Low,ACTIVE,2025-09-26,FACTORY|GST|KSPCB|LABOUR|SHOP|UDYAM,3 unresolved/notice complaint signals
+KA-MYS-570016-000303,Prakruthi Stores LLP,29,Low,DORMANT,2025-05-02,LABOUR|UDYAM,No linked GST registry signal | 1 unresolved/notice complaint signals | Dormant status inferred from event stream
+KA-BLRU-560058-000164,Sahana Kitchen Solutions,28,Low,ACTIVE,2025-09-19,BBMP|FACTORY|GST|SHOP,Manufacturing business has no linked KSPCB consent record | 1 unresolved/notice complaint signals
+KA-BLRR-562114-000183,Ravi Agro Associates,28,Low,ACTIVE,2025-08-23,KSPCB|SHOP,Manufacturing business has no linked Factories Act record | No linked GST registry signal
+KA-BLRU-560068-000197,Prakruthi Bites Company,28,Low,ACTIVE,2026-04-18,BBMP|GST,3 unresolved/notice complaint signals
+KA-MYS-570001-000208,Sahana Warehouse Traders,28,Low,DORMANT,2024-11-23,GST|SHOP|UDYAM,No compliance activity in the last 12 months | Dormant status inferred from event stream
+KA-BLRU-560037-000073,Srinidhi Company,27,Low,ACTIVE,2024-09-12,FACTORY|GST|KSPCB|SHOP|UDYAM,No compliance activity for more than 18 months
+KA-TUM-572106-000159,Bangalore Machining Co,27,Low,ACTIVE,2025-04-01,FACTORY|GST|KSPCB|LABOUR|UDYAM,No compliance activity in the last 12 months | 1 unresolved/notice complaint signals
+KA-BLRU-560102-000182,Sri Pvt Ltd,27,Low,ACTIVE,2026-03-11,FACTORY|GST|LABOUR|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record | 1 unresolved/notice complaint signals
+KA-MYS-570016-000223,Varun Mold LLP,27,Low,ACTIVE,2026-03-19,FACTORY|KSPCB|LABOUR|SHOP|UDYAM,No linked GST registry signal | 2 unresolved/notice complaint signals
+KA-BLRU-560085-000237,Sharma Print Enterprises,27,Low,ACTIVE,2025-11-20,GST|KSPCB|SHOP|UDYAM,Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals
+KA-MYS-570016-000028,Bangalore Solutions,26,Low,ACTIVE,2026-04-24,BBMP|SHOP,No linked GST registry signal | 2 unresolved/notice complaint signals
+KA-BLRU-560037-000054,Srinidhi Milling Traders,26,Low,ACTIVE,2025-10-07,GST|KSPCB|SHOP|UDYAM,Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals
+KA-BLRU-560058-000081,Meghana Wear Traders,26,Low,ACTIVE,2026-03-30,BBMP|FACTORY|GST|LABOUR|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record
+KA-BLRU-560066-000226,Sree Tools LLP,26,Low,ACTIVE,2026-01-22,GST|KSPCB|LABOUR|UDYAM,Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals
+KA-BLRR-562110-000135,Kaveri Textiles Enterprises,25,Low,ACTIVE,2026-03-05,FACTORY|GST|LABOUR|SHOP,Manufacturing business has no linked KSPCB consent record | 1 unresolved/notice complaint signals
+KA-BLRU-560029-000188,Lakshmi Solvents Company,25,Low,ACTIVE,2025-12-20,FACTORY|GST|LABOUR|UDYAM,Manufacturing business has no linked KSPCB consent record
+KA-BLRU-560102-000023,Sri Devices Solutions,24,Low,ACTIVE,2025-08-18,BBMP|FACTORY|GST|LABOUR|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record | 1 unresolved/notice complaint signals
+KA-BLRU-560100-000083,Nandi Electronics Solutions,24,Low,ACTIVE,2025-10-10,FACTORY|GST|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record
+KA-BLRU-560064-000084,Veda Kitchen Industries,24,Low,ACTIVE,2025-07-14,BBMP|SHOP,No linked GST registry signal | 1 unresolved/notice complaint signals
+KA-BLRU-560076-000118,Prakruthi Electronics Industries,24,Low,ACTIVE,2026-04-27,FACTORY|GST|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record | 1 unresolved/notice complaint signals
+KA-BLRU-560076-000011,Naveen Fashions Traders,23,Low,ACTIVE,2025-11-23,FACTORY|GST|LABOUR|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record
+KA-BLRU-560043-000058,Siddhi Systems LLP,23,Low,ACTIVE,2026-04-04,GST|KSPCB|LABOUR|SHOP|UDYAM,Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals
+KA-BLRU-560043-000100,Srinidhi Traders,23,Low,ACTIVE,2025-11-14,BBMP|GST|KSPCB,Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals
+KA-BLRU-560024-000172,Asha Solutions,23,Low,ACTIVE,2025-10-22,GST|KSPCB|LABOUR|SHOP,Manufacturing business has no linked Factories Act record
+KA-BLRU-560066-000184,Varun Components LLP,23,Low,ACTIVE,2025-11-10,FACTORY|GST|LABOUR|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record
+KA-BLRU-560059-000285,Ananya Chem Industries,23,Low,ACTIVE,2025-09-08,GST|KSPCB|LABOUR|UDYAM,Manufacturing business has no linked Factories Act record
+KA-BLRU-560066-000321,Asha Packaging Enterprises,23,Low,ACTIVE,2025-10-12,FACTORY|GST|SHOP,Manufacturing business has no linked KSPCB consent record
+KA-BLRU-560102-000035,Kaveri Components Pvt Ltd,22,Low,ACTIVE,2025-12-15,GST|KSPCB|SHOP|UDYAM,Manufacturing business has no linked Factories Act record
+KA-BLRU-560024-000039,Nisarga Industrial Co,22,Low,ACTIVE,2025-09-12,FACTORY|KSPCB,No linked GST registry signal | 1 unresolved/notice complaint signals
+KA-BLRU-560043-000049,Omkar Pvt Ltd,22,Low,ACTIVE,2026-05-03,FACTORY|GST|KSPCB|LABOUR|SHOP|UDYAM,2 unresolved/notice complaint signals
+KA-TUM-572106-000076,Bangalore Coatings Co,22,Low,ACTIVE,2025-08-14,FACTORY|KSPCB,No linked GST registry signal | 1 unresolved/notice complaint signals
+KA-BLRU-560043-000116,Prakruthi Packaging Industries,22,Low,ACTIVE,2025-08-28,GST|KSPCB|LABOUR|SHOP|UDYAM,Manufacturing business has no linked Factories Act record
+KA-MYS-570016-000127,Omkar Graphics Industries,22,Low,ACTIVE,2026-03-04,GST|KSPCB|LABOUR,Manufacturing business has no linked Factories Act record
+KA-TUM-572106-000171,Vijaya Fashions Works,22,Low,ACTIVE,2025-08-11,BBMP|FACTORY|GST|LABOUR|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record
+KA-BLRU-560024-000210,Lakshmi Electronics LLP,22,Low,ACTIVE,2026-03-30,GST|KSPCB|SHOP|UDYAM,Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals
+KA-BLRR-562110-000247,Kaveri Associates,22,Low,ACTIVE,2025-10-14,GST|KSPCB|SHOP|UDYAM,Manufacturing business has no linked Factories Act record
+KA-MYS-570016-000282,Omkar Coatings Pvt Ltd,22,Low,ACTIVE,2026-01-23,GST|KSPCB|LABOUR|UDYAM,Manufacturing business has no linked Factories Act record | 1 unresolved/notice complaint signals
+KA-BLRU-560064-000315,Kaveri Coatings Solutions,22,Low,ACTIVE,2025-11-24,FACTORY|GST|KSPCB|LABOUR|UDYAM,2 unresolved/notice complaint signals
+KA-BLRU-560100-000047,Nandi Solvents LLP,21,Low,ACTIVE,2026-04-27,FACTORY|GST|KSPCB|LABOUR,2 unresolved/notice complaint signals
+KA-BLRU-560034-000272,Ganesh Care Company,21,Low,ACTIVE,2026-02-08,BBMP|GST|SHOP|UDYAM,3 unresolved/notice complaint signals
+KA-BLRR-562114-000037,Kaveri Cafe LLP,20,Low,ACTIVE,2025-11-05,FACTORY|GST|SHOP,2 unresolved/notice complaint signals
+KA-BLRU-560059-000069,Ravi Health Traders,20,Low,ACTIVE,2025-08-30,BBMP,No linked GST registry signal | 1 unresolved/notice complaint signals
+KA-BLRU-560058-000091,Sharma Stitch Enterprises,20,Low,ACTIVE,2026-04-29,BBMP|FACTORY|GST|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record
+KA-BLRU-560068-000190,Veda Meds Works,20,Low,ACTIVE,2025-07-02,BBMP|LABOUR|SHOP,No linked GST registry signal | 1 unresolved/notice complaint signals
+KA-BLRR-562157-000206,Veda Associates,20,Low,ACTIVE,2025-09-01,FACTORY|GST|LABOUR|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record
+KA-BLRR-562114-000256,Navya Mold LLP,20,Low,ACTIVE,2025-07-09,FACTORY|KSPCB|LABOUR|SHOP|UDYAM,No linked GST registry signal | 1 unresolved/notice complaint signals
+KA-MYS-570001-000263,Aditya Polymers Associates,20,Low,ACTIVE,2025-09-23,FACTORY|GST|KSPCB|LABOUR|SHOP,2 unresolved/notice complaint signals
+KA-BLRU-560102-000266,Sree Print Co,20,Low,ACTIVE,2025-12-31,BBMP|FACTORY|GST|KSPCB|SHOP|UDYAM,2 unresolved/notice complaint signals
+KA-BLRU-560078-000304,Naveen Kitchen Pvt Ltd,20,Low,ACTIVE,2026-04-27,BBMP|SHOP,No linked GST registry signal | 1 unresolved/notice complaint signals
+KA-BLRU-560034-000316,Ganesh Coatings LLP,20,Low,ACTIVE,2026-03-06,FACTORY|KSPCB|LABOUR,No linked GST registry signal | 1 unresolved/notice complaint signals
+KA-BLRU-560001-000113,Harsha Tools Associates,19,Low,ACTIVE,2025-10-11,FACTORY|KSPCB|LABOUR|SHOP,No linked GST registry signal | 1 unresolved/notice complaint signals
+KA-BLRU-560058-000114,Nandi Bakery Pvt Ltd,19,Low,ACTIVE,2026-03-31,BBMP|FACTORY|GST|SHOP,Manufacturing business has no linked KSPCB consent record
+KA-MYS-570016-000147,Siddhi Supply LLP,19,Low,ACTIVE,2026-02-03,BBMP|GST|LABOUR,2 unresolved/notice complaint signals
+KA-BLRU-560085-000221,Lakshmi Works,19,Low,ACTIVE,2026-04-29,BBMP|FACTORY|GST|LABOUR|SHOP|UDYAM,2 unresolved/notice complaint signals
+KA-TUM-572101-000231,Veda LLP,19,Low,ACTIVE,2025-09-22,GST|LABOUR|SHOP,2 unresolved/notice complaint signals
+KA-BLRU-560076-000259,Veda Logistics Works,19,Low,ACTIVE,2026-04-18,BBMP|LABOUR|SHOP,No linked GST registry signal | 1 unresolved/notice complaint signals
+KA-BLRR-562110-000030,Bharath Garments Traders,18,Low,ACTIVE,2026-02-20,FACTORY|GST|LABOUR|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record
+KA-BLRU-560085-000074,Kaveri Labels Traders,18,Low,ACTIVE,2025-09-29,BBMP|FACTORY|KSPCB,No linked GST registry signal | 1 unresolved/notice complaint signals
+KA-MYS-570016-000089,Bangalore Works,18,Low,ACTIVE,2025-09-19,FACTORY|GST|LABOUR,Manufacturing business has no linked KSPCB consent record
+KA-BLRU-560100-000137,Omkar Agro Co,18,Low,ACTIVE,2025-11-22,GST|KSPCB|SHOP|UDYAM,Manufacturing business has no linked Factories Act record
+KA-BLRU-560085-000156,Mysore Industries,18,Low,ACTIVE,2025-10-26,GST|KSPCB|LABOUR|SHOP|UDYAM,Manufacturing business has no linked Factories Act record
+KA-BLRU-560059-000228,Kaveri Print Company,18,Low,ACTIVE,2026-02-16,FACTORY|GST|SHOP|UDYAM,Manufacturing business has no linked KSPCB consent record
+KA-BLRU-560068-000002,Vijaya Associates,17,Low,ACTIVE,2026-04-04,FACTORY|GST|UDYAM,Manufacturing business has no linked KSPCB consent record
+KA-BLRU-560024-000167,Asha Labs Solutions,17,Low,ACTIVE,2026-04-21,GST|KSPCB,Manufacturing business has no linked Factories Act record
+KA-BLRU-560034-000227,Harsha LLP,17,Low,ACTIVE,2025-12-06,GST|KSPCB|LABOUR,Manufacturing business has no linked Factories Act record
+KA-BLRU-560066-000260,Siddhi Packaging Enterprises,17,Low,ACTIVE,2026-01-29,GST|KSPCB|SHOP,Manufacturing business has no linked Factories Act record
+KA-BLRU-560066-000264,Veda Coatings Solutions,17,Low,ACTIVE,2025-07-27,FACTORY|GST|KSPCB|UDYAM,2 unresolved/notice complaint signals
+KA-BLRU-560068-000080,Meghana Coatings Traders,16,Low,DORMANT,2025-05-13,FACTORY|GST|KSPCB|LABOUR,Dormant status inferred from event stream
+KA-BLRU-560068-000140,Omkar Agro Company,16,Low,ACTIVE,2025-12-23,FACTORY|KSPCB|SHOP|UDYAM,No linked GST registry signal
+KA-BLRU-560078-000238,Kaveri Components Enterprises,16,Low,ACTIVE,2026-05-02,GST|KSPCB|SHOP|UDYAM,Manufacturing business has no linked Factories Act record
+KA-BLRU-560059-000005,Sharma Coatings Co,15,Low,ACTIVE,2026-02-13,GST|KSPCB|LABOUR|SHOP|UDYAM,Manufacturing business has no linked Factories Act record
+KA-BLRU-560037-000277,Bharath Clinic Associates,15,Low,ACTIVE,2026-02-05,BBMP|SHOP,No linked GST registry signal
+KA-BLRU-560059-000025,Harsha Biryani Works,14,Low,ACTIVE,2026-05-02,BBMP|FACTORY|LABOUR|SHOP,No linked GST registry signal | 1 unresolved/notice complaint signals
+KA-BLRU-560059-000124,Sahana Works Company,14,Low,ACTIVE,2026-02-05,FACTORY|KSPCB|LABOUR|SHOP|UDYAM,No linked GST registry signal
+KA-BLRR-562157-000142,Lakshmi Pharma Works,14,Low,ACTIVE,2025-10-08,BBMP|SHOP,No linked GST registry signal
+KA-BLRU-560076-000145,Veda Works,14,Low,ACTIVE,2026-05-04,GST|KSPCB|LABOUR|SHOP,Manufacturing business has no linked Factories Act record
+KA-BLRU-560059-000157,Naveen Coatings Co,14,Low,ACTIVE,2025-10-09,FACTORY|GST|KSPCB|SHOP|UDYAM,2 unresolved/notice complaint signals
+KA-MYS-570001-000169,Asha Bakery Co,14,Low,ACTIVE,2026-04-24,GST|KSPCB|UDYAM,Manufacturing business has no linked Factories Act record
+KA-BLRU-560059-000192,Navya Solvents Pvt Ltd,14,Low,ACTIVE,2026-04-30,BBMP|FACTORY|GST|KSPCB|LABOUR|SHOP,1 unresolved/notice complaint signals
+KA-BLRU-560024-000295,Lakshmi Kitchen Pvt Ltd,14,Low,ACTIVE,2026-03-29,BBMP|GST|SHOP|UDYAM,1 unresolved/notice complaint signals
+KA-BLRU-560085-000110,Sharma Chem LLP,13,Low,ACTIVE,2024-11-05,FACTORY|GST|KSPCB|LABOUR|UDYAM,No compliance activity in the last 12 months
+KA-BLRU-560102-000121,Sree Clinic Industries,13,Low,ACTIVE,2026-05-01,BBMP|FACTORY|GST|SHOP,1 unresolved/notice complaint signals
+KA-MYS-570001-000141,Nisarga Packaging Traders,13,Low,ACTIVE,2026-02-21,FACTORY|GST|KSPCB|LABOUR|UDYAM,2 unresolved/notice complaint signals
+KA-BLRU-560024-000173,Nisarga Trans Enterprises,13,Low,ACTIVE,2026-05-03,BBMP|FACTORY|GST|KSPCB|LABOUR,1 unresolved/notice complaint signals
+KA-BLRU-560068-000252,Sree Pharma Pvt Ltd,13,Low,ACTIVE,2025-11-01,BBMP|GST|SHOP|UDYAM,1 unresolved/notice complaint signals
+KA-BLRU-560064-000257,Siddhi Enterprises,13,Low,ACTIVE,2026-04-23,BBMP|FACTORY|SHOP,No linked GST registry signal
+KA-BLRU-560064-000286,Harsha Works,13,Low,ACTIVE,2025-09-03,FACTORY|GST|KSPCB|LABOUR|SHOP|UDYAM,1 unresolved/notice complaint signals
+KA-BLRU-560102-000325,Naveen Medical Solutions,13,Low,ACTIVE,2025-12-12,BBMP|GST|LABOUR|SHOP|UDYAM,2 unresolved/notice complaint signals
+KA-BLRU-560085-000038,Meghana Bites Associates,12,Low,ACTIVE,2026-04-18,GST|SHOP|UDYAM,1 unresolved/notice complaint signals
+KA-BLRR-562114-000274,Omkar Cafe Industries,12,Low,ACTIVE,2026-04-13,BBMP|GST|SHOP,2 unresolved/notice complaint signals
+KA-BLRU-560102-000007,Sree Logistics Pvt Ltd,11,Low,ACTIVE,2025-12-06,SHOP,No linked GST registry signal
+KA-BLRU-560068-000158,Omkar Labs Co,11,Low,ACTIVE,2025-10-01,BBMP|FACTORY|GST|KSPCB,1 unresolved/notice complaint signals
+KA-TUM-572106-000310,Sree Tech Associates,11,Low,ACTIVE,2025-08-29,FACTORY|GST|KSPCB|LABOUR,1 unresolved/notice complaint signals
+KA-BLRU-560059-000053,Harsha Packaging Enterprises,10,Low,ACTIVE,2026-04-04,FACTORY|KSPCB|LABOUR|SHOP|UDYAM,No linked GST registry signal
+KA-TUM-572101-000063,Lakshmi Graphics Works,10,Low,ACTIVE,2026-04-12,FACTORY|GST|KSPCB,1 unresolved/notice complaint signals
+KA-BLRU-560064-000144,Varun Meals Solutions,10,Low,ACTIVE,2026-04-22,BBMP|GST|SHOP,1 unresolved/notice complaint signals
+KA-BLRR-562110-000320,Navya Industrial Co,10,Low,ACTIVE,2025-09-17,FACTORY|GST|KSPCB|LABOUR,1 unresolved/notice complaint signals
+KA-BLRR-561203-000016,Nandi Trans Solutions,9,Low,ACTIVE,2026-04-22,GST|LABOUR|SHOP,1 unresolved/notice complaint signals
+KA-BLRR-562114-000060,Veda Stitch LLP,9,Low,ACTIVE,2025-09-06,BBMP|FACTORY|GST|KSPCB|LABOUR|SHOP|UDYAM,1 unresolved/notice complaint signals
+KA-BLRU-560076-000088,Bharath Biryani Pvt Ltd,9,Low,ACTIVE,2025-12-23,BBMP|KSPCB|SHOP,No linked GST registry signal
+KA-BLRU-560058-000195,Meghana Moulding Industries,9,Low,ACTIVE,2026-03-14,FACTORY|GST|KSPCB|LABOUR|SHOP|UDYAM,1 unresolved/notice complaint signals
+KA-BLRU-560029-000217,Siddhi Industries,9,Low,ACTIVE,2025-06-11,FACTORY|GST|KSPCB|LABOUR|UDYAM,1 unresolved/notice complaint signals
+KA-BLRU-560024-000123,Nisarga Industrial Co,8,Low,ACTIVE,2026-04-16,BBMP|GST|KSPCB|SHOP,1 unresolved/notice complaint signals
+KA-BLRU-560102-000031,Mysore Enterprises,7,Low,ACTIVE,2026-03-01,FACTORY|GST|KSPCB|LABOUR|SHOP|UDYAM,1 unresolved/notice complaint signals
+KA-BLRR-561203-000032,Omkar LLP,7,Low,ACTIVE,2025-11-14,GST|LABOUR|SHOP,1 unresolved/notice complaint signals
+KA-BLRR-562114-000099,Mysore Cargo Solutions,7,Low,ACTIVE,2026-02-18,BBMP|GST|LABOUR|SHOP|UDYAM,1 unresolved/notice complaint signals
+KA-BLRU-560102-000111,Naveen Polymers Solutions,7,Low,ACTIVE,2025-08-19,FACTORY|GST|KSPCB|LABOUR|UDYAM,1 unresolved/notice complaint signals
+KA-MYS-570018-000178,Kaveri Meds Associates,7,Low,ACTIVE,2026-02-28,BBMP|GST|SHOP,1 unresolved/notice complaint signals
+KA-BLRU-560076-000224,Ravi Logistics Solutions,7,Low,ACTIVE,2026-04-18,GST|LABOUR|SHOP,1 unresolved/notice complaint signals
+KA-BLRU-560085-000246,Ananya Labs Enterprises,7,Low,ACTIVE,2025-09-06,FACTORY|GST|KSPCB,1 unresolved/notice complaint signals
+KA-TUM-572106-000275,Harsha Works,7,Low,ACTIVE,2025-08-26,FACTORY|GST|KSPCB|SHOP,1 unresolved/notice complaint signals
+KA-BLRU-560043-000287,Prakruthi Packaging Works,7,Low,ACTIVE,2025-11-29,BBMP|GST|LABOUR|SHOP|UDYAM,1 unresolved/notice complaint signals
+KA-BLRU-560085-000010,Ganesh Dine LLP,6,Low,ACTIVE,2026-04-21,BBMP|GST|SHOP|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-MYS-570016-000044,Aarohi Solutions,6,Low,ACTIVE,2026-04-18,BBMP|GST|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-BLRR-562110-000128,Srinidhi Co,6,Low,ACTIVE,2025-11-19,BBMP|GST|LABOUR|SHOP,Recent compliance activity and sufficient cross-department linkage
+KA-BLRR-562110-000168,Ganesh Kitchen LLP,6,Low,ACTIVE,2025-07-16,BBMP|GST|SHOP,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560066-000170,Bharath Spices LLP,6,Low,ACTIVE,2025-11-02,BBMP|FACTORY|GST|KSPCB|LABOUR|SHOP,1 unresolved/notice complaint signals
+KA-TUM-572101-000229,Lakshmi Medical LLP,6,Low,ACTIVE,2026-04-24,BBMP|LABOUR|UDYAM,No linked GST registry signal
+KA-BLRU-560078-000258,Vijaya Industries Works,6,Low,ACTIVE,2025-11-23,FACTORY|GST|KSPCB|LABOUR|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560066-000268,Vijaya Moulding Solutions,6,Low,ACTIVE,2025-12-04,FACTORY|GST|KSPCB|LABOUR|SHOP|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560029-000276,Omkar Mold Traders,6,Low,ACTIVE,2026-03-19,FACTORY|GST|KSPCB|LABOUR|SHOP|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560029-000095,Deccan Packaging Traders,5,Low,ACTIVE,2026-04-28,FACTORY|GST|KSPCB|SHOP,1 unresolved/notice complaint signals
+KA-BLRU-560100-000104,Navya Printers Traders,5,Low,ACTIVE,2025-09-29,BBMP|FACTORY|GST|KSPCB|LABOUR|SHOP,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560064-000215,Ananya Resins Industries,5,Low,ACTIVE,2026-04-21,FACTORY|GST|KSPCB|LABOUR,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560058-000255,Sharma LLP,5,Low,ACTIVE,2026-02-20,BBMP|FACTORY|GST|KSPCB|LABOUR,1 unresolved/notice complaint signals
+KA-BLRU-560085-000319,Ganesh Medical Solutions,5,Low,ACTIVE,2025-11-30,BBMP|GST|LABOUR|SHOP|UDYAM,1 unresolved/notice complaint signals
+KA-BLRR-562114-000009,Srinidhi Trans Works,4,Low,ACTIVE,2025-12-07,GST|KSPCB|SHOP,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560066-000018,Mysore Mold Solutions,4,Low,ACTIVE,2026-04-29,BBMP|FACTORY|GST|KSPCB|SHOP|UDYAM,1 unresolved/notice complaint signals
+KA-BLRR-562110-000019,Veda Coatings Works,4,Low,ACTIVE,2026-03-29,FACTORY|GST|KSPCB|SHOP,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560034-000064,Veda Devices Co,4,Low,ACTIVE,2026-03-27,FACTORY|GST|KSPCB|LABOUR|SHOP|UDYAM,1 unresolved/notice complaint signals
+KA-BLRU-560102-000176,Siddhi Warehouse Solutions,4,Low,ACTIVE,2026-05-02,BBMP|GST|UDYAM,1 unresolved/notice complaint signals
+KA-BLRR-562157-000232,Aditya Tech Enterprises,4,Low,ACTIVE,2026-03-17,FACTORY|GST|KSPCB|LABOUR,1 unresolved/notice complaint signals
+KA-BLRU-560001-000243,Sharma Moulding Industries,4,Low,ACTIVE,2025-10-11,FACTORY|GST|KSPCB|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560058-000248,Veda Precision Company,4,Low,ACTIVE,2026-04-11,FACTORY|GST|KSPCB|LABOUR|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-MYS-570016-000280,Nandi Meals Enterprises,4,Low,ACTIVE,2026-04-30,BBMP|GST|SHOP,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560102-000093,Kaveri Systems Pvt Ltd,3,Low,ACTIVE,2026-04-02,BBMP|FACTORY|GST|KSPCB|LABOUR|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-MYS-570001-000133,Sri Moulding Works,3,Low,ACTIVE,2025-09-23,FACTORY|GST|KSPCB|SHOP,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560078-000324,Varun Industries,3,Low,ACTIVE,2026-04-26,FACTORY|GST|KSPCB|SHOP,Recent compliance activity and sufficient cross-department linkage
+KA-MYS-570001-000013,Mysore Bites Works,2,Low,ACTIVE,2025-10-16,BBMP|GST|SHOP,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560059-000055,Bharath Machining Company,2,Low,ACTIVE,2026-04-23,FACTORY|GST|KSPCB|LABOUR|SHOP,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560043-000134,Udupi Logistics Company,2,Low,ACTIVE,2025-12-04,GST|LABOUR|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560066-000249,Deccan Precision Co,2,Low,ACTIVE,2026-01-23,BBMP|FACTORY|GST|KSPCB|SHOP|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560102-000251,Prakruthi Clinic Pvt Ltd,2,Low,ACTIVE,2026-01-17,BBMP|GST|LABOUR|SHOP,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560066-000149,Udupi Pharma Works,1,Low,ACTIVE,2026-01-10,GST|LABOUR|SHOP,Recent compliance activity and sufficient cross-department linkage
+KA-TUM-572106-000160,Srinidhi Bites Co,1,Low,ACTIVE,2026-01-11,BBMP|GST|LABOUR|SHOP|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-BLRR-562157-000200,Sri Moulding Works,1,Low,ACTIVE,2026-04-25,FACTORY|GST|KSPCB|SHOP|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560068-000204,Nisarga Clinic LLP,1,Low,ACTIVE,2026-04-14,BBMP|GST|SHOP,Recent compliance activity and sufficient cross-department linkage
+KA-BLRR-562157-000219,Navya Precision Traders,1,Low,ACTIVE,2025-09-21,FACTORY|GST|KSPCB|LABOUR|SHOP,Recent compliance activity and sufficient cross-department linkage
+KA-MYS-570018-000240,Sahana Industries Co,1,Low,ACTIVE,2026-04-09,BBMP|FACTORY|GST|KSPCB|SHOP,Recent compliance activity and sufficient cross-department linkage
+KA-BLRR-562157-000267,Harsha Meals Industries,1,Low,ACTIVE,2026-03-18,BBMP|GST|LABOUR,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560024-000283,Aditya Meds Co,1,Low,ACTIVE,2025-09-20,BBMP|GST|LABOUR|SHOP,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560076-000288,Nandi Moulding Company,1,Low,ACTIVE,2025-09-10,FACTORY|GST|KSPCB|SHOP|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-MYS-570016-000309,Harsha Pvt Ltd,1,Low,ACTIVE,2026-02-05,FACTORY|GST|KSPCB,Recent compliance activity and sufficient cross-department linkage
+KA-MYS-570001-000006,Deccan Industries,0,Low,ACTIVE,2025-11-16,FACTORY|GST|KSPCB|LABOUR|SHOP|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-BLRR-562110-000017,Mysore Cafe Traders,0,Low,ACTIVE,2026-04-24,BBMP|GST|LABOUR,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560068-000026,Bangalore Moulding Associates,0,Low,ACTIVE,2026-05-02,FACTORY|GST|KSPCB|LABOUR|SHOP|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-TUM-572106-000045,Bangalore Garments Solutions,0,Low,ACTIVE,2025-12-28,BBMP|FACTORY|GST|KSPCB|LABOUR|SHOP|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-BLRR-562114-000061,Srinidhi Labs Industries,0,Low,ACTIVE,2026-04-25,FACTORY|GST|KSPCB|LABOUR,Recent compliance activity and sufficient cross-department linkage
+KA-TUM-572106-000071,Prakruthi CNC LLP,0,Low,ACTIVE,2026-03-26,FACTORY|GST|KSPCB|LABOUR|SHOP|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-TUM-572106-000087,Bangalore Co,0,Low,ACTIVE,2026-02-18,BBMP|GST,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560058-000130,Kaveri Cargo Solutions,0,Low,ACTIVE,2025-07-27,GST|SHOP|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-BLRR-562114-000151,Lakshmi Graphics Solutions,0,Low,ACTIVE,2025-08-08,FACTORY|GST|KSPCB|LABOUR|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-BLRR-561203-000155,Aditya Chem Co,0,Low,ACTIVE,2025-07-17,FACTORY|GST|KSPCB|LABOUR,Recent compliance activity and sufficient cross-department linkage
+KA-MYS-570018-000180,Varun Industrial Associates,0,Low,ACTIVE,2025-06-07,FACTORY|GST|KSPCB,Recent compliance activity and sufficient cross-department linkage
+KA-BLRR-562110-000199,Udupi Electronics LLP,0,Low,ACTIVE,2025-08-29,FACTORY|GST|KSPCB|LABOUR|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-MYS-570016-000216,Veda Cafe Industries,0,Low,ACTIVE,2026-04-30,BBMP|GST|SHOP,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560064-000234,Prakruthi Biryani Solutions,0,Low,ACTIVE,2025-12-07,BBMP|GST|SHOP|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-BLRR-562157-000245,Sharma Coatings Pvt Ltd,0,Low,ACTIVE,2026-04-08,FACTORY|GST|KSPCB|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-BLRR-561203-000253,Bangalore LLP,0,Low,ACTIVE,2026-04-25,BBMP|GST|SHOP,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560043-000278,Asha CNC LLP,0,Low,ACTIVE,2026-04-18,FACTORY|GST|KSPCB|SHOP|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-MYS-570001-000284,Prakruthi Packaging Enterprises,0,Low,ACTIVE,2026-03-18,BBMP|FACTORY|GST|KSPCB|LABOUR|SHOP,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560068-000290,Deccan Tools Traders,0,Low,ACTIVE,2025-08-15,FACTORY|GST|KSPCB|SHOP|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560068-000297,Mysore Health Industries,0,Low,ACTIVE,2026-04-27,GST|LABOUR|SHOP|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560102-000307,Udupi Cafe Pvt Ltd,0,Low,ACTIVE,2025-12-24,GST|KSPCB|LABOUR|SHOP|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560066-000311,Bangalore Industries LLP,0,Low,ACTIVE,2025-12-01,BBMP|FACTORY|GST|KSPCB|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-MYS-570016-000318,Lakshmi LLP,0,Low,ACTIVE,2026-05-03,GST|SHOP|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-MYS-570018-000322,Nisarga Circuits Enterprises,0,Low,ACTIVE,2026-01-20,FACTORY|GST|KSPCB|SHOP|UDYAM,Recent compliance activity and sufficient cross-department linkage
+KA-BLRU-560100-000323,Sree Enterprises,0,Low,ACTIVE,2025-08-07,BBMP|FACTORY|GST|KSPCB|LABOUR,Recent compliance activity and sufficient cross-department linkage

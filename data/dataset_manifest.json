@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-05-04",
+  "seed": 260504,
+  "synthetic_only": true,
+  "entities": 325,
+  "source_records_total": 1223,
+  "department_counts": {
+    "SHOP": 218,
+    "FACTORY": 144,
+    "KSPCB": 148,
+    "LABOUR": 160,
+    "BBMP": 131,
+    "GST": 258,
+    "UDYAM": 164
+  },
+  "ubids": 325,
+  "candidate_pairs": 1443,
+  "auto_link_candidates": 284,
+  "human_review_candidates": 640,
+  "no_match_candidates": 519,
+  "events": 1583,
+  "risk_levels": {
+    "Low": 210,
+    "Medium": 82,
+    "High": 33
+  },
+  "notes": [
+    "Identifiers are fake and hashed-like strings. No real PAN/GSTIN/person data is included.",
+    "entity_id_ground_truth is included only for evaluation; hide it from demo UI.",
+    "Candidate scores use name 30%, address 25%, identifier 35%, phone 10%. Thresholds: >=85 auto-link, 60-84 human review, <60 no match."
+  ]
+}

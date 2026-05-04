@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ubid_registry",
+  "description": "Canonical UBID registry output.",
+  "type": "object",
+  "properties": {
+    "ubid": {
+      "type": "string"
+    },
+    "canonical_business_name": {
+      "type": "string"
+    },
+    "canonical_address": {
+      "type": "string"
+    },
+    "district": {
+      "type": "string"
+    },
+    "pin_code": {
+      "type": "string"
+    },
+    "business_type": {
+      "type": "string"
+    },
+    "business_category": {
+      "type": "string"
+    },
+    "activity_status": {
+      "type": "string"
+    },
+    "confidence": {
+      "type": "integer"
+    },
+    "source_record_count": {
+      "type": "integer"
+    },
+    "linked_departments": {
+      "type": "string"
+    },
+    "created_at": {
+      "type": "string"
+    },
+    "last_activity_date": {
+      "type": "string"
+    },
+    "audit_policy": {
+      "type": "string"
+    },
+    "entity_id_ground_truth": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true
+}

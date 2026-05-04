@@ -1,0 +1,102 @@
+{
+  "post_api_chat": {
+    "request": {
+      "message": "I want to start a food processing business in Peenya, Bengaluru with 18 workers"
+    },
+    "response": {
+      "reply": "For a food processing business in Peenya, you likely need Shop Establishment, GST, FSSAI, Labour registration if workers are employed, and KSPCB consent depending on processing/effluent.",
+      "structured_output": {
+        "business_type": "Food Processing",
+        "location": "Peenya Industrial Area, Bengaluru Urban",
+        "recommended_departments": [
+          "SHOP",
+          "GST",
+          "KSPCB",
+          "LABOUR"
+        ],
+        "required_registrations": [
+          "Shop Establishment",
+          "GST",
+          "FSSAI",
+          "KSPCB consent if applicable",
+          "Labour registration if employees are hired"
+        ],
+        "next_steps": [
+          "Confirm business name",
+          "Check duplicate records",
+          "Collect hashed PAN/GSTIN",
+          "Generate or link UBID"
+        ],
+        "risk_flags": [
+          "KSPCB may be required",
+          "Duplicate record possible if already registered"
+        ],
+        "confidence": 84
+      },
+      "needs_confirmation": true,
+      "confirmation_question": "Should I check existing department records before creating a new UBID?"
+    }
+  },
+  "post_api_resolve": {
+    "request": {
+      "records": [
+        "GST-KA-BLRU-2019-000080",
+        "KFBIS-FAC-BLRU-2023-000053"
+      ]
+    },
+    "response": {
+      "candidate_pair_id": "PAIR-000285",
+      "left_source_system": "GST",
+      "left_record_id": "GST-KA-BLRU-2019-000080",
+      "left_business_name": "M/S Mysore Fashions Enterprises",
+      "right_source_system": "FACTORY",
+      "right_record_id": "KFBIS-FAC-BLRU-2023-000053",
+      "right_business_name": "Mysore Fashions Entp",
+      "pin_code": "560064",
+      "match_score": 84,
+      "decision": "HUMAN_REVIEW",
+      "name_score": 85.1,
+      "address_score": 100,
+      "identifier_score": 95,
+      "phone_score": 0,
+      "same_entity_ground_truth": true,
+      "explanation": "requires human review: high name similarity (85.1); similar address/PIN (100); strong hashed PAN/GSTIN/Udyam match"
+    }
+  },
+  "post_api_ubid_generate": {
+    "request": {
+      "business_name": "Omkar Works",
+      "pin_code": "560037"
+    },
+    "response": {
+      "ubid": "KA-BLRU-560037-000001",
+      "status": "DORMANT",
+      "confidence": 67,
+      "linked_records": 1
+    }
+  },
+  "get_api_dashboard_ubid": {
+    "request_path": "/api/dashboard/KA-BLRU-560037-000001",
+    "response": {
+      "ubid": "KA-BLRU-560037-000001",
+      "business_name": "Omkar Works",
+      "status": "DORMANT",
+      "progress": {
+        "identity_verified": false,
+        "department_records_linked": false,
+        "human_review_required": true,
+        "compliance_checked": true
+      },
+      "risk_score": 54,
+      "risk_level": "Medium",
+      "matched_departments": [
+        "SHOP"
+      ],
+      "risk_reasons": [
+        "No compliance activity for more than 18 months",
+        "No linked GST registry signal",
+        "Dormant status inferred from event stream"
+      ]
+    }
+  }
+}
