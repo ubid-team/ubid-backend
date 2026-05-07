@@ -80,6 +80,22 @@ def _safe_float(value: Any) -> float:
         return 0.0
 
 
+@router.post("/reset")
+def reset_demo(request: Request) -> dict[str, Any]:
+    """Wipe all in-memory data so the dashboard shows 0/0/0 until next upload.
+
+    Files on disk are untouched; calling /api/data/reload (or POST /upload) will
+    re-ingest them.
+    """
+    repo = request.app.state.repository
+    repo.clear()
+    return {
+        "ok": True,
+        "message": "in-memory data cleared",
+        "data_loaded": repo.data_loaded,
+    }
+
+
 @router.get("/stats")
 def stats(request: Request) -> dict[str, Any]:
     repo = request.app.state.repository
@@ -114,7 +130,7 @@ def stats(request: Request) -> dict[str, Any]:
 def list_matches(
     request: Request,
     tier: str | None = Query(default=None),
-    limit: int = Query(default=200, ge=1, le=1000),
+    limit: int = Query(default=5000, ge=1, le=10000),
 ) -> dict[str, Any]:
     repo = request.app.state.repository
     pairs_df = repo.get_dataframe("candidate_match_pairs")
@@ -169,7 +185,7 @@ def list_matches(
 @router.get("/registry")
 def registry(
     request: Request,
-    limit: int = Query(default=200, ge=1, le=1000),
+    limit: int = Query(default=5000, ge=1, le=10000),
 ) -> dict[str, Any]:
     repo = request.app.state.repository
     registry_df = repo.get_dataframe("ubid_registry")

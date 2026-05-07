@@ -45,6 +45,13 @@ class DataRepository:
     def reload(self) -> None:
         self.load()
 
+    def clear(self) -> None:
+        self.dataframes = {}
+        self.loaded_sources = []
+        self.search_records = pd.DataFrame()
+        self.confirmations = []
+        self.match_status = {}
+
     @property
     def data_loaded(self) -> bool:
         return bool(self.loaded_sources)
