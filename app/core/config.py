@@ -31,6 +31,17 @@ class Settings:
             "http://127.0.0.1:8080",
         ]
     )
+    extra_cors_origins: list[str] = field(
+        default_factory=lambda: [
+            origin.strip()
+            for origin in os.getenv("EXTRA_CORS_ORIGINS", "").split(",")
+            if origin.strip()
+        ]
+    )
+
+    @property
+    def all_cors_origins(self) -> list[str]:
+        return list(dict.fromkeys([*self.cors_origins, *self.extra_cors_origins]))
 
     @property
     def openrouter_configured(self) -> bool:

@@ -36,6 +36,7 @@ class DataRepository:
         self.search_records = pd.DataFrame()
         self.data_root = settings.data_dir
         self.confirmations: list[ConfirmationRecord] = []
+        self.match_status: dict[str, str] = {}
 
     def load(self) -> None:
         self.dataframes, self.loaded_sources, self.data_root = self.loader.load()
@@ -245,6 +246,42 @@ class DataRepository:
         mask = source_df.apply(lambda row: (row.get("source_system"), row.get("source_record_id")) in keys, axis=1)
         subset = source_df[mask]
         return [without_ground_truth(row) for row in subset.to_dict(orient="records")]
+
+    def find_pair_by_int_id(self, match_id: int) -> dict[str, Any] | None:
+        df = self.get_dataframe("candidate_match_pairs")
+        if df.empty or "candidate_pair_id" not in df.columns:
+            return None
+        target = f"PAIR-{match_id:06d}"
+        subset = df[df["candidate_pair_id"] == target]
+        if subset.empty:
+            return None
+        return subset.iloc[0].to_dict()
+
+    def find_ubid_for_link(self, source_system: str, record_id: str) -> str | None:
+        if not source_system or not record_id:
+            return None
+        df = self.get_dataframe("source_to_ubid_links")
+        if df.empty or not {"source_system", "source_record_id"}.issubset(df.columns):
+            return None
+        subset = df[(df["source_system"] == source_system) & (df["source_record_id"] == record_id)]
+        if subset.empty:
+            return None
+        value = subset.iloc[0].get("ubid", "")
+        return str(value) if value else None
+
+    def set_match_status(self, pair_id: str, status: str) -> None:
+        if not pair_id:
+            return
+        self.match_status[pair_id] = status
+
+    def match_status_for(self, pair_id: str, decision: str) -> str:
+        if pair_id in self.match_status:
+            return self.match_status[pair_id]
+        if decision == "AUTO_LINK":
+            return "approved"
+        if decision == "NO_MATCH":
+            return "rejected"
+        return "pending"
 
     def list_recommendation_rules(self) -> list[dict[str, Any]]:
         rules_df = self.get_dataframe("recommendation_rules")

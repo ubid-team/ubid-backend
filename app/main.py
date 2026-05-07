@@ -5,7 +5,15 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from app.api import routes_chat, routes_dashboard, routes_data, routes_health, routes_resolution, routes_ubid
+from app.api import (
+    routes_chat,
+    routes_compat,
+    routes_dashboard,
+    routes_data,
+    routes_health,
+    routes_resolution,
+    routes_ubid,
+)
 from app.core.config import settings
 from app.core.errors import register_error_handlers
 from app.core.logging import configure_logging
@@ -59,7 +67,17 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=settings.cors_origins,
+    allow_origins=settings.all_cors_origins,
+    allow_origin_regex=(
+        r"https?://("
+        r"localhost(:\d+)?"
+        r"|127\.0\.0\.1(:\d+)?"
+        r"|([\w-]+\.)*vercel\.app"
+        r"|([\w-]+\.)*pages\.dev"
+        r"|([\w-]+\.)*workers\.dev"
+        r"|([\w-]+\.)*onrender\.com"
+        r")"
+    ),
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -72,3 +90,4 @@ app.include_router(routes_resolution.router)
 app.include_router(routes_ubid.router)
 app.include_router(routes_dashboard.router)
 app.include_router(routes_chat.router)
+app.include_router(routes_compat.router)

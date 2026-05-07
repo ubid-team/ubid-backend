@@ -1,0 +1,28 @@
+services:
+  - type: web
+    name: ubid-backend
+    runtime: python
+    plan: free
+    region: singapore
+    pythonVersion: "3.12"
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: APP_ENV
+        value: production
+      - key: DATA_DIR
+        value: ./data
+      - key: AUTO_LINK_THRESHOLD
+        value: "85"
+      - key: HUMAN_REVIEW_THRESHOLD
+        value: "60"
+      - key: LLM_TIMEOUT_SECONDS
+        value: "12"
+      - key: OPENROUTER_API_KEY
+        sync: false
+      - key: OPENROUTER_MODEL
+        value: openrouter/free
+      - key: EXTRA_CORS_ORIGINS
+        sync: false

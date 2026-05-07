@@ -35,23 +35,29 @@ If a file is missing, the backend logs a warning and continues with available da
 
 ## Setup
 
+Linux / macOS:
+
 ```bash
-cd /home/lenovo/Documents/ubid/ubid-backend
+cd ubid-backend
 cp .env.example .env
 uv venv .venv
 uv pip install -r requirements.txt
-```
-
-Run locally:
-
-```bash
 uv run uvicorn app.main:app --reload
+# or
+./run.sh
 ```
 
-Or:
+Windows (PowerShell):
 
-```bash
-./run.sh
+```powershell
+cd ubid-backend
+Copy-Item .env.example .env
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+# or
+.\run.ps1
 ```
 
 ## OpenRouter Setup
@@ -172,6 +178,30 @@ curl -X POST http://127.0.0.1:8000/api/chat \
   -H "Content-Type: application/json" \
   -d '{"message": "I want to start a food processing business in Bengaluru with 20 employees"}'
 ```
+
+## Frontend Compatibility Endpoints
+
+For the existing `ubid-neo-glow` UI (built against an earlier draft API), the
+backend also exposes these flat-prefix routes that proxy onto the same
+in-memory dataset:
+
+```bash
+curl http://127.0.0.1:8000/stats
+curl "http://127.0.0.1:8000/matches?tier=HUMAN_REVIEW&limit=50"
+curl http://127.0.0.1:8000/registry
+curl -X POST http://127.0.0.1:8000/matches/1/approve \
+  -H "Content-Type: application/json" -d '{"reviewer_id":"demo"}'
+curl -X POST http://127.0.0.1:8000/matches/1/reject \
+  -H "Content-Type: application/json" -d '{"reviewer_id":"demo"}'
+curl -X POST http://127.0.0.1:8000/upload \
+  -F "dept_a=@./data/raw/shop_establishments.csv" \
+  -F "dept_b=@./data/raw/factories_act_registrations.csv"
+```
+
+`POST /upload` saves the CSVs under `DATA_DIR/raw/` and reloads the
+repository. The deterministic match pipeline runs against the synthetic
+dataset already shipped under `data/`; the upload endpoint is wired so the
+frontend's "Run pipeline" action shows a meaningful tier breakdown.
 
 ## Frontend Integration Contract
 
